@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "983493328530",
+    "firebase_url": "https://androidcloudmessaging-52d46.firebaseio.com",
+    "project_id": "androidcloudmessaging-52d46",
+    "storage_bucket": "androidcloudmessaging-52d46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983493328530:android:6b6f6c4746adce173a304b",
+        "android_client_info": {
+          "package_name": "courses.pluralsight.com.tabianconsulting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983493328530-ih084ua9f828chag37c3v2285bn8mg1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-NW_ad_iAHcTgaS8b36kHpP52WINRJ_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983493328530-ih084ua9f828chag37c3v2285bn8mg1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
